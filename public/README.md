@@ -1,1 +1,1 @@
-# [Koka- izstradajumi]
+Koka- izstradajumi
