@@ -1,21 +1,14 @@
 <?php
 
-if(!mysql_connect("correct host","correct username","correct password"))
+$db_host="localhost";
+$db_username="root";
+$db_password="";
+$db_name="php_tutorial";
 
+
+$db_connect     = mysqli_connect($db_host, $db_username, $db_password, $db_name);
+
+if (mysqli_connect_error())
 {
-
-die('oops connection problem ! --> '.mysql_error());
-
+    echo "Failed to connect to MySQL: " . mysqli_connect_error();
 }
-
-if(!mysql_select_db("correct db"))
-
-{
-
-die('oops database selection problem ! --> '.mysql_error());
-
-}
-
-
-
-?>
