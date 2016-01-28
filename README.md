@@ -1,39 +1,21 @@
-#FuelPHP
+## Laravel PHP Framework
 
-* Version: 1.7.2
-* [Website](http://fuelphp.com/)
-* [Release Documentation](http://docs.fuelphp.com)
-* [Release API browser](http://api.fuelphp.com)
-* [Development branch Documentation](http://dev-docs.fuelphp.com)
-* [Development branch API browser](http://dev-api.fuelphp.com)
-* [Support Forum](http://fuelphp.com/forums) for comments, discussion and community support
+[![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework)
 
-## Description
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
 
-FuelPHP is a fast, lightweight PHP 5.3 framework. In an age where frameworks are a dime a dozen, We believe that FuelPHP will stand out in the crowd.  It will do this by combining all the things you love about the great frameworks out there, while getting rid of the bad.
+Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
 
-## More information
+Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-For more detailed information, see the [development wiki](https://github.com/fuelphp/fuelphp/wiki).
+## Official Documentation
 
-##Development Team
+Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
 
-* Harro Verton - Project Manager, Developer ([http://wanwizard.eu/](http://wanwizard.eu/))
-* Frank de Jonge - Developer ([http://frenky.net/](http://frenky.net/))
-* Steve West - Developer
+### Contributing To Laravel
 
-### Want to join?
+**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
 
-The FuelPHP development team is always looking for new team members, who are willing
-to help lift the framework to the next level, and have the commitment to not only
-produce awesome code, but also great documentation, and support to our users.
+### License
 
-You can not apply for membership. Start by sending in pull-requests, work on outstanding
-feature requests or bugs, and become active in the #fuelphp IRC channel. If your skills
-are up to scratch, we will notice you, and will ask you to become a team member.
-
-### Alumni
-
-* Jelmer Schreuder - Developer ([http://jelmerschreuder.nl/](http://jelmerschreuder.nl/))
-* Phil Sturgeon - Developer ([http://philsturgeon.co.uk](http://philsturgeon.co.uk))
-* Dan Horrigan - Founder, Developer ([http://dhorrigan.com](http://dhorrigan.com))
+The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
